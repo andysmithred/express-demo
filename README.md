@@ -8,11 +8,12 @@ A small tutorial to demo how NodeJS and ExpressJS works. This does not connect t
 To start:
 
 > node index.js -> start with just node
+
 > nodemon index.js -> start with nodemon (will automatically restart after making changes)
 
-npm start -> start with just node
+> npm start -> start with just node
 
-npm run nodemon -> start with nodemon
+> npm run nodemon -> start with nodemon
 
 ## Technology Used
 
